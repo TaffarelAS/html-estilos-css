@@ -1,0 +1,14 @@
+body{
+    background-color: turquoise;
+}
+
+.container-box{
+    background-color: rgb(2, 2, 66);
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.texto{
+    color: white;
+}
